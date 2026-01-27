@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/5A29I0ynutvTW6+WG9ylKSAiMVZTh4VzHWEAoBdMR4=",
+  "Source": "PcmApi",
+  "BasePath": "_content/PcmApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
