@@ -1,6 +1,6 @@
 🎾 Pickleball Club Management - Vợt Thủ Phố Núi (PCM) - Mobile Edition
 
-Sinh viên: 
+Sinh viên: Đoàn Đình Hậu
 MSSV: 1771020250 (đuôi 250)  
 Môn học: Lập trình Mobile với Flutter
 
@@ -207,7 +207,7 @@ Luồng gợi ý để quay video demo:
 
 🎓 Thông tin sinh viên
 
-- Họ tên: Dương Trọng Tuấn
+- Họ tên: Đoàn Đình Hậu
 - MSSV: 1771020250
 - Đuôi MSSV dùng prefix bảng: 250
 
