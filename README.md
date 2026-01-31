@@ -67,7 +67,7 @@ flutter run -d emulator-5554 --dart-define=PCM_API_BASE_URL=http://10.0.2.2:5253
 
 Chạy tại thư mục backend:
 ```powershell
-cd d:\MOBILE_FLUTTER_1771020250_doandinhhau\Backend\PcmApi
+cd d:\MOBILE_FLUTTER_1771020242_chungochan\Backend\PcmApi
 
 # Restore packages
 dotnet restore
