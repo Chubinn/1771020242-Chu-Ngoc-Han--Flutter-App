@@ -1,14 +1,13 @@
 🎾 Pickleball Club Management - Vợt Thủ Phố Núi (PCM) - Mobile Edition
-
-Sinh viên: Đoàn Đình Hậu
-MSSV: 1771020250 (đuôi 250)  
+Sinh viên: Chu Ngọc Hân
+MSSV: 1771020242(đuôi 242)  
 Môn học: Lập trình Mobile với Flutter
 
 Hệ thống quản lý CLB Pickleball với Backend (ASP.NET Core Web API), Frontend (Flutter Mobile/Web/Desktop) và Database (MySQL qua EF Core Code First).
 
 📁 Cấu trúc dự án
 
-MOBILE_FLUTTER_1771020250_doandinhhau/
+MOBILE_FLUTTER_1771020242_chungochan/
 ├── Backend/                         # ASP.NET Core Web API (.NET 8)
 │   └── PcmApi/
 │       ├── Controllers/            # API Controllers (Auth, Wallet, Bookings, ...)
@@ -91,7 +90,7 @@ Ghi chú:
 
 Chạy Flutter app:
 ```powershell
-cd d:\MOBILE_FLUTTER_1771020250_doandinhhau\Mobile\pcm_mobile
+cd d:\MOBILE_FLUTTER_1771020242_chungochan\Mobile\pcm_mobile
 
 # Lấy dependencies
 flutter pub get
@@ -164,8 +163,8 @@ Ghi chú quan trọng:
 Theo yêu cầu đề bài, tên bảng có prefix 3 số cuối MSSV.
 
 Trong dự án này:
-- MSSV: `1771020250`
-- Prefix: `250_`
+- MSSV: `1771020242`
+- Prefix: `242_`
 
 Các bảng chính:
 - `250_Members`
@@ -207,9 +206,9 @@ Luồng gợi ý để quay video demo:
 
 🎓 Thông tin sinh viên
 
-- Họ tên: Đoàn Đình Hậu
-- MSSV: 1771020250
-- Đuôi MSSV dùng prefix bảng: 250
+- Họ tên: Chu Ngọc Hân
+- MSSV: 1771020242
+- Đuôi MSSV dùng prefix bảng: 242
 
 
 ## Getting Started
@@ -224,5 +223,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-#   1 7 7 1 0 2 0 2 4 2 - C h u - N g o c - H a n - - F l u t t e r - A p p  
- 
